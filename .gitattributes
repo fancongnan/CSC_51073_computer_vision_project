@@ -1,0 +1,2 @@
+.tox filter=lfs diff=lfs merge=lfs -text
+MediaPipe/release/toxes/MediaPipe.tox filter=lfs diff=lfs merge=lfs -text
